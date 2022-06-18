@@ -2,8 +2,8 @@
 #include<string>
 int main()
 {
-	std::string name; 
-	std::cin>>name;
-	std::cout<<"hi "<<name<<" my name is joshua bello, but i go by femi";
+	std::string nam; 
+	std::cin>>nam;
+	std::cout<<"hi "<<nam<<" my name is joshua bello, but i go by femi";
 	return 0;
 }
